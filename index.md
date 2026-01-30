@@ -7,6 +7,7 @@ Welcome to my ICS4U portfolio. I’ll use this site to post my work and reflecti
 - 📝 Blog/Reflection: [Reflection #1](./posts/first_reflection.md)
 
 ## About me
-- I like to play volleyball, watch shows, and listen to music. I also have a twin brother and older sister. 
+- I like to play volleyball, watch shows, and listen to music.
+- I also have a twin brother and older sister. 
   
 ---
