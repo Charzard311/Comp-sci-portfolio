@@ -10,5 +10,7 @@ Welcome to my ICS4U portfolio. I’ll use this site to post my work and reflecti
 - I like to play volleyball, watch shows, and listen to music.
 - Hello
 - I also have a twin brother and older sister. 
+
+
   
 ---
