@@ -1,5 +1,6 @@
 # Hi, I'm Charlie 
-Welcome to my portfolio, here you can see all of my work :) 
+Welcome to my portfolio, here you can see all of my work. 
+
 
 ## Highlights
 - 🔧 Project 1: *(title)* – *(1–2 lines about what it does)*
